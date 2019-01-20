@@ -1,1 +1,1 @@
-# pythonchallenge.com-Exercises
+# Python exercises
